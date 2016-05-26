@@ -1,0 +1,4 @@
+---
+default: ['/etc', '/usr/local/bin', '/root']
+VM1: ['/backup','/backup2']
+VM2: ['/var/www' ]
